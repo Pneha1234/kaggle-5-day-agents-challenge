@@ -14,6 +14,7 @@ Personal workspace for completing the Kaggle 5-Day Agents learning challenge: ht
     - [Assignment Notebook B](day2/day-2b-agent-tools-best-practices.ipynb)
   - [Whitepaper Reference](day2/whitepaper.pdf)
   - [Exercise – Image Generation with Approval](day2/exercise-day%202-image-generation-approval.ipynb)
+  - [Video Reference](https://www.youtube.com/watch?v=Cr4NA6rxHAM)
 
 ### Directory Layout
 - `day1` – notebooks and experiments for day 1
