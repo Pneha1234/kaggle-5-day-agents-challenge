@@ -9,6 +9,11 @@ Personal workspace for completing the Kaggle 5-Day Agents learning challenge: ht
   - [Personal Notes](day1/day1-notes.md)
   - [Whitepaper Reference](day1/whitepaper.pdf)
   - [Video Reference](https://www.youtube.com/watch?v=zTxvGzpfF-g)
+- **Day 2:** Explored custom tools, MCP integrations, and long-running workflows.
+  - [Assignment Notebook A](day2/day-2a-agent-tools.ipynb)
+    - [Assignment Notebook B](day2/day-2b-agent-tools-best-practices.ipynb)
+  - [Whitepaper Reference](day2/whitepaper.pdf)
+  - [Exercise – Image Generation with Approval](day2/exercise-day%202-image-generation-approval.ipynb)
 
 ### Directory Layout
 - `day1` – notebooks and experiments for day 1
